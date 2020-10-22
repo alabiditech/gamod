@@ -1,16 +1,14 @@
-{"version_code":1,"content":"
+{"version_code":2,"content":"
 <p>تحديث إصلاحي 20.1.1</p>
 
-<li>إضافة خيار لتحويل الصوت أثناء التحدث إلى نص</li>
-<li>إضافة خيار لإرسال رسائل فارغة</li>
-<li>إصلاح الإنهيار عند الضغط على أيقونة تنزيل الحالات</li>
+<li>حذف خيار إعادة التوجيه لأكثر من ٥ دردشات</li>
+<li>إصلاح الإنهيار عند الضغط على البروفايل</li>
 <li>إصلاحات وتحسينات</li>
 
 
-<li> Added option to Make Speak to Text</li>
-<li> Added option to send Empty Messages</li>
-<li> Fixed Crash at click download statuses icon</li>
+<li> Removed Unlimited Forwarded option</li>
+<li> Fixed Crash at pressing Profiles</li>
 <li> Other Fixed</li>
 
-","url":"http://bit.ly/whatsapp-business-plus"
+","url":"http://bit.ly/wa-plus-latest-version"
 }
