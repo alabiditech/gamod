@@ -21,24 +21,24 @@
 </li>إصلاحات على أداء البرنامج</li>
 
 
-</li>Added Broadcast Messages to Groups</li>
-</li>Added Option to Show lock icon in home row for Locked chats</li>
-</li>Added Customize Media Download options for each contact/group separately</li>
-</li>Added @ Mention Icon on Main Screen to Easily Know where you are tagged</li>
-</li>Added Customize Show Blue Ticks after reply option for each contact/group separately</li>
-</li>Added Ability to Add Stickers from Apps</li>
-</li>Added option Videos Player to Select your favorite player</li>
-</li>Added option to Show Contact Online Toast</li>
-</li>Added option to Show Toast when someone change Profile Pic</li>
-</li>Added option to Show Toast when someone view your status</li>
-</li>Added option to Show toast if contact status changes</li>
-</li>Added option to Select Play Tone Also</li>
-</li>Added option to change the position of Toast</li>
-</li>Added option to select duration of the notification</li>
-</li>Added option to Set Bold Text Toast</li>
-</li>Fixed App Lock</li>
+</li> Added Broadcast Messages to Groups</li>
+</li> Added Option to Show lock icon in home row for Locked chats</li>
+</li> Added Customize Media Download options for each contact/group separately</li>
+</li> Added @ Mention Icon on Main Screen to Easily Know where you are tagged</li>
+</li> Added Customize Show Blue Ticks after reply option for each contact/group separately</li>
+</li> Added Ability to Add Stickers from Apps</li>
+</li> Added option Videos Player to Select your favorite player</li>
+</li> Added option to Show Contact Online Toast</li>
+</li> Added option to Show Toast when someone change Profile Pic</li>
+</li> Added option to Show Toast when someone view your status</li>
+</li> Added option to Show toast if contact status changes</li>
+</li> Added option to Select Play Tone Also</li>
+</li> Added option to change the position of Toast</li>
+</li> Added option to select duration of the notification</li>
+</li> Added option to Set Bold Text Toast</li>
+</li> Fixed App Lock</li>
 ixed Set max size limit when sharing Video
-</li>Other Fixed</li>
+</li> Other Fixed</li>
 
 ","url":"http://bit.ly/wa-plus-latest-version"
 }
