@@ -8,5 +8,5 @@
 <li> Update Base to 2.20.201.23 </li>
 <li> more features </li>
 
-","url":"http://bit.ly/wa-bussines-plus-latest-version"
+","url":"http://bit.ly/gawa-latest-version"
 }
