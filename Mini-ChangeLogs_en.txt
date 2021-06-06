@@ -1,0 +1,31 @@
+{"version_code":1,"content":"
+<p>تحديث جديد 20.3</p>
+
+<li> Update Base to 2.20.205.16 </li>
+<li> Added disappearing messages (conversation-conversation Information-disappearing messages) </li>
+<li> Added Advanced search </li>
+<li> You can manage storage to facilitate the content management process (Settings - Storage and data-storage management) </li>
+<li> Added Option to Use Elapsed time (last seen hr and mins ago) in WhatsApp, in Home and Conversation screen </li>
+<li> Added Option to Show Online/Last seen or Green Dot Like FB Messenger on the Home Screen </li>
+<li> Added Option to Set your name or status instead of WhatsApp in Home Screen </li>
+<li> Added Option to Removes your status line under your name in Main Screen </li>
+<li> Added Option to Disable Opening hidden chats when clicking WhatsApp </li>
+<li> Added Option to Show Always Online </li>
+<li> Added Option to Hide Notification for Contacts , Groups or Both </li>
+<li> Added Option to Always play status videos with sound </li>
+<li> Added Option to control whether chats get unarchived when new messages arrive </li>
+<li> Added Option to Show Contact status line under the header in coversation </li>
+<li> Added Click on Status caption to copy </li>
+<li> Now when you locked a conversation "Contents is hidden" will appear instead of the message appearing in the Home screen </li>
+<li> Now when you locked a conversation the Messages it's disappeared </li>
+<li> Now when you Hide Chats a conversation the Messages it's disappeared </li>
+<li> Now You can Apply Light or Night themes at pressing WhatsApp ward in Home Screen </li>
+<li> Removed encryption Messages icon from Type inbox </li>
+<li> Added encryption Messages icon to Conversation Header </li>
+<li> Added Option to Hide Encryption Messages icon </li>
+<li> Fixed Disable Heads-up Popup </li>
+<li> Fixed Checkbox for -AR Language </li>
+<li> Other Fixed </li>
+
+","url":"https://www.ga-mods.com/2021/06/whatsapp-mini.html"
+}
