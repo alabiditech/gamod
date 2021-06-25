@@ -1,12 +1,12 @@
 {"version_code":4,"content":"
-<p>واتساب بلس ميني الإصدار المخفف</p>
+<p>تحديث جديد New Update</p>
 
-<li> حمل واتساب ميني و GAWhatsApp Mini الإصدار الجديد من الموقع الآن </li>
-<li> الإصدار الكامل قريبا </li>
+<li> التحديث للإصدار 2.21.10.16 </li>
+<li> الإصدار الكامل </li>
 
 
-<li> Download WhatsApp and GAWhatsApp Mini Now </li>
-<li> FullVersion Coming Soon </li>
+<li> Updated to Base 2.21.10.16 </li>
+<li> FullVersion </li>
 
-","url":"https://www.ga-mods.com/2021/06/whatsapp-mini.html"
+","url":"https://www.ga-mods.com/2020/12/gawhatsapp-latest-version.html"
 }
