@@ -1,5 +1,5 @@
 {"version_code":1,"content":"
-<p>تحديث جديد 20.3</p>
+<p>تحديث جديد 2.0</p>
 
 <li> Update Base to 2.20.205.16 </li>
 <li> Added disappearing messages (conversation-conversation Information-disappearing messages) </li>
