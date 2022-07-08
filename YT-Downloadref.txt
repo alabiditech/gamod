@@ -1,1 +1,1 @@
-{ 	"version": "0.2.23.220220", 	"link": "https://github.com/alabiditech/gamod/blob/master/MicroG.apk" }
+{ 	"version": "0.2.23.220220", 	"link": "https://raw.githubusercontent.com/alabiditech/gamod/master/MicroG.apk" }
